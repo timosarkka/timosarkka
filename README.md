@@ -2,7 +2,7 @@
 
 ### Data Engineer / Project Management Professional
 
-I'm a data engineer with a strong industrial project management background. I've worked 10+ years as a project manager at several large Finnish corporations like KONE, Metso and VR. I'm also a certified Project Management Professional (PMP). Currently, I'm redirecting my career towards data engineering and learning how to build data and ETL pipelines, data storage solutions and effective data visualizations.
+I'm a data engineer with a strong industrial project management background. I've worked 10+ years as a project manager at several large Finnish corporations like KONE, Metso and VR. I'm also a certified [Project Management Professional](https://www.credly.com/badges/09dace82-3b47-459e-bfbd-b292ae4cdefd/public_url) (PMP). Currently, I'm redirecting my career towards data engineering and learning how to build data and ETL pipelines, data storage solutions and effective data visualizations.
 
 - 🔨 Working on: **Data Engineering**
 - 📘 Learning: **Pandas, SQL, Microsoft Azure, Microsoft Fabric, PowerBI**
