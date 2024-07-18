@@ -9,6 +9,19 @@ I'm a data engineer with a strong industrial project management background. I've
 - ⚡ Interested in: **All things data/backend, GenAI, LLMs, autonomous agents, robotics**
 - 🌴 My free time: **Family, playing padel, running, gym, electronic music**
 
+<br>
+
+<table>
+    <tr>
+        <th>My resume</th>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://timosarkka.github.io/resume">📃</a>
+        </td>
+    </tr>
+</table>
+
 ### Tools
 
 <table>
