@@ -11,7 +11,7 @@ I'm a data engineer with a strong industrial project management background. I've
 
 ### Resume
 
-<a href="https://timosarkka.github.io/resume">See my online resume 📃</a>
+<a href="https://timosarkka.github.io/resume" target="_blank">See my online resume 📃</a>
 
 ### Tools
 
