@@ -20,7 +20,7 @@ I'm a data engineer with a strong industrial project management background. I've
         <td>Cloud Engineering</td>
         <td>
             <a href="https://azure.microsoft.com" target=”_blank”><img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" width="40" height="40"></a>
-            <a href="https://azure.microsoft.com" target=”_blank”><img src="https://seeklogo.com/images/A/azure-synapse-analytics-logo-B87A556A9C-seeklogo.com.png" width="40" height="40"></a>
+            <a href="https://azure.microsoft.com" target=”_blank”><img src="https://seeklogo.com/images/A/azure-synapse-analytics-logo-B87A556A9C-seeklogo.com.png" width="35" height="40"></a>
             <a href="https://www.microsoft.com/en-us/microsoft-fabric" target=”_blank”><img src="https://static.wikia.nocookie.net/logopedia/images/a/aa/Microsoft_Fabric_2023.svg" width="40" height="40"></a>
         </td>   
     </tr>
