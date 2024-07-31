@@ -41,7 +41,7 @@ I'm a data engineer with a strong industrial project management background. I've
     </tr>
     <tr>
     <tr>
-        <td>APIs</td>
+        <td>API Platforms</td>
         <td>
             <a href="https://www.postman.com/" target=”_blank”><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/></a>
         </td>
