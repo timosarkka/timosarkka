@@ -9,6 +9,14 @@ I'm a data engineer with a strong industrial project management background. I've
 - ⚡ Interested in: **All things data/backend, GenAI, LLMs, autonomous agents, robotics**
 - 🌴 My free time: **Family, playing padel, running, gym, electronic music**
 
+### Featured Projects
+
+Some of my top recent projects:
+
+* <a href="https://github.com/timosarkka/nhl-elt-analysis" target=”_blank”>ELT pipeline and analytics dashboard (NHL data)</a>
+* <a href="https://github.com/timosarkka/time-management-app" target=”_blank”>A work hour logging/reporting app</a>
+* <a href="https://github.com/timosarkka/netflix-in-numbers" target=”_blank”>PowerBI data analytics dashboard (Netflix data)</a>
+
 ### Resume
 
 <a href="https://timosarkka.github.io/resume" target="_blank">See my resume 📃</a>
