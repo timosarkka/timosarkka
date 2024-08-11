@@ -13,9 +13,9 @@ I'm a data engineer with a strong industrial project management background. I've
 
 Some of my top recent projects:
 
-* <a href="https://github.com/timosarkka/nhl-elt-analysis" target=”_blank”>ELT pipeline and Data Lake Implementation</a>
-* <a href="https://github.com/timosarkka/netflix-in-numbers" target=”_blank”>Data Analytics Dashboard</a>
-* <a href="https://github.com/timosarkka/time-management-app" target=”_blank”>Work Hour Logging and Reporting App</a>
+* <a href="https://github.com/timosarkka/nhl-elt-analysis" target=”_blank”>ELT Pipeline (Azure Synapse Analytics, PySpark)</a>
+* <a href="https://github.com/timosarkka/netflix-in-numbers" target=”_blank”>Data Analytics Dashboard (PowerBI)</a>
+* <a href="https://github.com/timosarkka/time-management-app" target=”_blank”>Work Hour Logging App (Flask, Python/Psycopg2)</a>
 
 ### Resume
 
