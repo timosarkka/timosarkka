@@ -5,9 +5,9 @@
 I'm a data engineer with a strong industrial project management background. I've worked 10+ years as a project manager at several large Finnish corporations like KONE, Metso and VR. I'm also a certified [Project Management Professional](https://www.credly.com/badges/09dace82-3b47-459e-bfbd-b292ae4cdefd/public_url) (PMP). Currently, I'm focusing on data engineering, ETL pipelines, data storage solutions and effective data visualizations.
 
 - 🔨 Working on: **Data Engineering**
-- 📘 Learning: **Pandas, SQL, Microsoft Azure, Synapse Analytics, Apache Spark, Microsoft Fabric, PowerBI**
-- ⚡ Interested in: **All things data/backend, GenAI, LLMs, autonomous agents, robotics**
-- 🌴 My free time: **Family, playing padel, running, gym, electronic music**
+- 📘 Learning: **Google Cloud, BigQuery Studio, Dataform, Looker Studio**
+- ⚡ Interested in: **Data/backend, Generative AI, robotics**
+- 🌴 My free time: **Spending time with family, playing padel, running, gym, electronic music**
 
 ### Featured Projects
 
