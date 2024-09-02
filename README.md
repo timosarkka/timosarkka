@@ -1,11 +1,11 @@
 ## Hi, I'm Timo 👋
 
-### Data Engineer / Project Management Professional
+### Data Engineer | Certified Project Management Professional (PMP)
 
-I'm a data engineer with a strong industrial project management background. I've worked 10+ years as a project manager at several large Finnish corporations such as KONE, Metso and VR. I'm also a certified [Project Management Professional](https://www.credly.com/badges/09dace82-3b47-459e-bfbd-b292ae4cdefd/public_url) (PMP). Currently, I'm focusing on data engineering, ETL pipelines, data storage solutions and effective data visualizations.
+I’m a data engineer with over 10 years of experience in industrial project management at leading Finnish corporations like KONE, Metso, and VR. Leveraging my PMP certification and extensive background in managing large-scale projects, I now specialize in designing and implementing robust ETL pipelines, optimizing data storage solutions, and crafting impactful data visualizations. My unique blend of technical expertise and project management skills enables me to deliver efficient, scalable solutions that meet business objectives.
 
 - 🔨 Working on: **Data Engineering**
-- 📘 Learning: **Google Cloud, BigQuery Studio, Dataform, Looker Studio**
+- 📘 Learning: **Microsoft Fabric Analytics Engineer Associate (DP-600)**
 - ⚡ Interested in: **Data/backend, Generative AI, robotics**
 - 🌴 My free time: **Spending time with family, playing padel, running, gym, electronic music**
 
@@ -65,3 +65,7 @@ Some of my recent projects:
         </td>
     </tr>
 </table>
+
+### Certifications
+
+[Project Management Professional (PMP)®](https://www.credly.com/badges/09dace82-3b47-459e-bfbd-b292ae4cdefd/public_url)
