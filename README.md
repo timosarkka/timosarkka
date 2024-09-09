@@ -7,7 +7,7 @@ I’m a data engineer with over 10 years of experience in industrial project man
 - 🔨 Working on: **Data Engineering**
 - 📘 Learning: **Web scraping, algorithms**
 - ⚡ Interested in: **All things data/backend, Generative AI, robotics**
-- 🌴 My free time: **Spending time with family, playing padel, running, gym, electronic music**
+- 🌴 My free time: **Spending time with my family, playing padel, running, gym, electronic music**
 
 ### Featured Projects
 
