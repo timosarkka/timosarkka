@@ -5,7 +5,7 @@
 I’m a data engineer with over 10 years of experience in industrial project management at leading Finnish corporations like KONE, Metso, and VR. Leveraging my PMP certification and extensive background in managing large-scale projects, I now specialize in designing and implementing robust ETL pipelines, optimizing data storage solutions, and crafting impactful data visualizations. My unique blend of technical expertise and project management skills enables me to deliver efficient, scalable solutions that meet business objectives.
 
 - 🔨 Working on: **Data Engineering**
-- 📘 Learning: **Microsoft Fabric Analytics Engineer Associate (DP-600)**
+- 📘 Learning: **Web scraping, algorithms**
 - ⚡ Interested in: **Data/backend, Generative AI, robotics**
 - 🌴 My free time: **Spending time with family, playing padel, running, gym, electronic music**
 
