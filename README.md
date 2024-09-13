@@ -13,7 +13,7 @@ I’m a data engineer with over 10 years of experience in industrial project man
 
 Some of my recent projects:
 
-* <a href="https://github.com/timosarkka/data-eng-skills" target="_blank">Top Skills Analysis For Data Engineering Jobs (Python, Pandas, Selenium, BeautifulSoup, Azure)</a>
+* <a href="https://github.com/timosarkka/data-eng-skills" target="_blank">Data Engineering in 2024: Which Skills Will Land You the Job?</a>
 * <a href="https://github.com/timosarkka/nhl-elt-analysis" target=”_blank”>ELT Pipeline for NHL Data 2008-2024 (Azure Synapse Analytics, PySpark)</a>
 * <a href="https://github.com/timosarkka/netflix-in-numbers" target=”_blank”>Data Analytics Dashboard for Netflix Titles (Power BI)</a>
 
