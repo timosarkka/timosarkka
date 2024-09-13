@@ -15,7 +15,7 @@ Some of my recent projects:
 
 * <a href="https://github.com/timosarkka/data-eng-skills" target="_blank">Data Engineering in 2024: Which Skills Will Land You the Job?</a>
 * <a href="https://github.com/timosarkka/nhl-elt-analysis" target=”_blank”>Unpacking 16 Years of NHL Data</a>
-* <a href="https://github.com/timosarkka/netflix-in-numbers" target=”_blank”>Data Analytics Dashboard for Netflix Titles (Power BI)</a>
+* <a href="https://github.com/timosarkka/netflix-in-numbers" target=”_blank”>What’s Streaming? Analyzing Netflix's Top Titles and Trends</a>
 
 ### Resume
 
