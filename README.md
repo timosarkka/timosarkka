@@ -2,7 +2,7 @@
 
 ### Data Engineer | Certified Project Management Professional (PMP)
 
-I’m a data engineer with over 10 years of experience in industrial project management at leading Finnish corporations like KONE, Metso, and VR. Leveraging my PMP certification and extensive background in managing large-scale projects, I now specialize in designing and implementing robust ETL pipelines, optimizing data storage solutions, and crafting impactful data visualizations. My unique blend of technical expertise and project management skills enables me to deliver efficient, scalable solutions that meet business objectives.
+I've spent over a decade managing big industrial projects for Finnish companies like KONE, Metso, and VR. With a PMP certification and tons of experience in handling large-scale projects, I’ve recently switched gears to focus on data engineering. Now, I’m diving into building solid ETL pipelines, optimizing data storage, and creating impactful visualizations. My mix of technical skills and project management experience helps me deliver efficient and scalable solutions that get the job done.
 
 - 🔨 Working on: **Data Engineering**
 - 📘 Learning: **Web scraping, algorithms**
