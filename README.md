@@ -7,7 +7,7 @@ I've spent over a decade managing big industrial projects for Finnish companies 
 - 🔨 Working on: **Data Engineering**
 - 📘 Learning: **Azure Functions, Snowflake, Matillion ETL**
 - ⚡ Interested in: **All things data/backend, Generative AI, robotics**
-- 🌴 My free time: **Spending time with my family, playing padel, running, gym, electronic music**
+- 🌴 My free time: **Spending time with my family, Crossfit, playing padel, electronic music**
 
 ### Featured Projects
 
