@@ -25,29 +25,30 @@ Some of my recent private projects:
 
 <table>
     <tr>
-        <td>Cloud Engineering</td>
+        <td>Cloud</td>
         <td>
             <a href="https://azure.microsoft.com" target=”_blank”><img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" width="40" height="40"></a>
         </td>   
     </tr>
     <tr>
-        <td>Backend/Data</td>
+        <td>Programming</td>
         <td>
             <a href="https://www.python.org/" target=”_blank”><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/python/python-original.svg" width="40" height="40"/></a>
             <a href="https://numpy.org/" target=”_blank”><img src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" width="40" height="40"/></a>
             <a href="https://pandas.pydata.org/" target=”_blank”><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/674px-Pandas_mark.svg.png" width="40" height="40"/></a>
-            <a href="https://www.microsoft.com/en-us/power-platform/products/power-bi" target=”_blank”><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="40" height="40"/></a>
         </td>
     </tr>
     <tr>
-        <td>Databases</td>
+        <td>Databases/ETL</td>
         <td>
             <a href="https://www.snowflake.com/en/" target=”_blank”><img src="https://cdn.brandfetch.io/idJz-fGD_q/theme/dark/symbol.svg?k=bfHSJFAPEG" width="40" height="40"/></a>
+            <a href="https://www.matillion.com/matillion-etl" target=”_blank”><img src="https://cdn.prod.website-files.com/61ddd0b42c51f89b7de1e910/667f22f950cc4db776f23203_667ef82f0f02ee8d2f00c9a1_matillion-new.svg" width="40" height="40"/></a>
         </td>
     </tr>
     <tr>
-        <td>IDEs, other tools</td>
+        <td>Visualization and other tools</td>
         <td>
+            <a href="https://www.microsoft.com/en-us/power-platform/products/power-bi" target=”_blank”><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="40" height="40"/></a>
             <a href="https://code.visualstudio.com/" target=”_blank”><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/vscode/vscode-original.svg" width="40" height="40"/></a>
             <a href="https://git-scm.com/" target=”_blank”><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/git/git-original.svg" width="40" height="40"/></a>
         </td>
