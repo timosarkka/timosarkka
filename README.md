@@ -28,8 +28,6 @@ Some of my recent projects:
         <td>Cloud Engineering</td>
         <td>
             <a href="https://azure.microsoft.com" target=”_blank”><img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" width="40" height="40"></a>
-            <a href="https://www.microsoft.com/en-us/microsoft-fabric" target=”_blank”><img src="https://static.wikia.nocookie.net/logopedia/images/a/aa/Microsoft_Fabric_2023.svg" width="40" height="40"></a>
-            <a href="https://cloud.google.com/?hl=en" target=”_blank”><img src="https://static-00.iconduck.com/assets.00/google-cloud-icon-2048x1646-7admxejz.png" width="40" height="40"></a>
         </td>   
     </tr>
     <tr>
@@ -39,22 +37,12 @@ Some of my recent projects:
             <a href="https://numpy.org/" target=”_blank”><img src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" width="40" height="40"/></a>
             <a href="https://pandas.pydata.org/" target=”_blank”><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/674px-Pandas_mark.svg.png" width="40" height="40"/></a>
             <a href="https://www.microsoft.com/en-us/power-platform/products/power-bi" target=”_blank”><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="40" height="40"/></a>
-            <a href="https://cloud.google.com/looker-studio?hl=en" target=”_blank”><img src="https://www.svgrepo.com/show/375454/looker.svg" width="40" height="40"/></a>
         </td>
     </tr>
     <tr>
         <td>Databases</td>
         <td>
-            <a href="https://www.postgresql.org/" target=”_blank”><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/postgresql/postgresql-original.svg" width="40" height="40"/></a>
-            <a href="https://azure.microsoft.com/en-us/products/synapse-analytics" target=”_blank”><img src="https://seeklogo.com/images/A/azure-synapse-analytics-logo-B87A556A9C-seeklogo.com.png" width="35" height="40"></a>
-            <a href="https://cloud.google.com/bigquery?hl=en" target=”_blank”><img src="https://cdn.worldvectorlogo.com/logos/google-bigquery-logo-1.svg" width="40" height="40"/></a>
-        </td>
-    </tr>
-    <tr>
-    <tr>
-        <td>API Platforms</td>
-        <td>
-            <a href="https://www.postman.com/" target=”_blank”><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/></a>
+            <a href="https://www.snowflake.com/en/" target=”_blank”><img src="https://i0.wp.com/dbaontap.com/wp-content/uploads/2021/02/periscope-data-partners-snowflake-computing-logo-clipart-snowflake-computing-png-840_873.jpg?ssl=1" width="40" height="40"/></a>
         </td>
     </tr>
     <tr>
