@@ -2,10 +2,10 @@
 
 ### Data Engineer | Certified Project Management Professional (PMP)
 
-I've spent over a decade managing big industrial projects for Finnish companies like KONE, Metso, and VR. With a PMP certification and tons of experience in handling large-scale projects, I’ve recently switched gears to focus on data engineering. Now I’m diving into building ETL pipelines, optimizing data storage, and creating impactful visualizations. My mix of technical skills and project management experience helps me deliver efficient and scalable solutions that get the job done.
+I've spent over a decade managing big industrial projects for Finnish companies like KONE, Metso, and VR. With a PMP certification and tons of experience in handling large-scale projects, I’ve recently switched gears to focus on data engineering. Right now I'm mostly building IoT data pipelines and helping my current employer to build a comprehensive data strategy. My mix of technical skills and project management experience helps me deliver efficient and scalable solutions that get the job done.
 
 - 🔨 Working on: **Data Engineering**
-- 📘 Learning: **Azure IoTHub & Functions, Snowflake, Matillion ETL**
+- 📘 Learning: **Azure Functions, Snowflake, Matillion ETL**
 - ⚡ Interested in: **All things data/backend, Generative AI, robotics**
 - 🌴 My free time: **Spending time with my family, playing padel, running, gym, electronic music**
 
