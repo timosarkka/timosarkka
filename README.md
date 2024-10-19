@@ -11,7 +11,7 @@ I've spent over a decade managing big industrial projects for Finnish companies 
 
 ### Featured Projects
 
-Some of my recent projects:
+Some of my recent private projects:
 
 * <a href="https://github.com/timosarkka/data-eng-skills" target="_blank">Data Engineering in 2024: Which Skills Will Land You the Job?</a>
 * <a href="https://github.com/timosarkka/nhl-elt-analysis" target=”_blank”>Unpacking 16 Years of NHL Data: Trends and Insights</a>
@@ -42,7 +42,7 @@ Some of my recent projects:
     <tr>
         <td>Databases</td>
         <td>
-            <a href="https://www.snowflake.com/en/" target=”_blank”><img src="https://i0.wp.com/dbaontap.com/wp-content/uploads/2021/02/periscope-data-partners-snowflake-computing-logo-clipart-snowflake-computing-png-840_873.jpg?ssl=1" width="40" height="40"/></a>
+            <a href="https://www.snowflake.com/en/" target=”_blank”><img src="https://cdn.brandfetch.io/idJz-fGD_q/theme/dark/symbol.svg?k=bfHSJFAPEG" width="40" height="40"/></a>
         </td>
     </tr>
     <tr>
