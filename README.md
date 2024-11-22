@@ -5,7 +5,7 @@
 I've spent over a decade managing industrial projects for large Finnish companies like KONE, Metso, and VR. Recently, I took a different route in my career and decided to focus on data engineering. Currently, I'm building data pipelines with tools like Azure Functions, Snowflake and Matillion ETL. On the visualization side, I'm mainly working with Power BI.
 
 - 🔨 Working on: **Data Engineering**
-- 📘 Learning: **Azure Functions, Snowflake, Matillion ETL**
+- 📘 Learning: **Snowflake SnowPro Core Certification**
 - ⚡ Interested in: **All things data/backend, Generative AI, robotics**
 - 🌴 My free time: **Spending time with my family, Crossfit, playing padel, electronic music**
 - 💬 Languages: **Finnish, English**
