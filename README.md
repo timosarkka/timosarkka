@@ -42,7 +42,7 @@ Some of my recent personal projects:
     <tr>
         <td>Databases/ETL</td>
         <td>
-            <a href="https://www.snowflake.com/en/" target=”_blank”><img src="https://cdn.brandfetch.io/idJz-fGD_q/theme/dark/symbol.svg?k=bfHSJFAPEG" width="40" height="40"/></a>
+            <a href="https://www.snowflake.com/en/" target=”_blank”><img src="https://companieslogo.com/img/orig/SNOW-35164165.png?t=1720244494" width="40" height="40"/></a>
             <a href="https://www.matillion.com/matillion-etl" target=”_blank”><img src="https://cdn.prod.website-files.com/61ddd0b42c51f89b7de1e910/667f22f950cc4db776f23203_667ef82f0f02ee8d2f00c9a1_matillion-new.svg" width="40" height="40"/></a>
         </td>
     </tr>
@@ -65,7 +65,7 @@ Some of my recent personal projects:
 *ICT Development Manager*
 
 * Build and maintain data pipelines with Azure, Matillion ETL, and Snowflake.
-* Support the company’s data strategy development and optimization.
+* Develop Power BI semantic models, dashboards and reports.
   
 <a href="https://www.vrgroup.fi/en/vrgroup/our-company/business-operations/vr-fleetcare/" target=”_blank”>**VR FleetCare**</a>\
 *2023 - 2024*\
