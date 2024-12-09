@@ -64,26 +64,15 @@ Some of my recent personal projects:
 *2024 - Present*\
 *ICT Development Manager*
 
-* Build and maintain data pipelines with Azure, Matillion ETL, and Snowflake.
-* Develop Power BI semantic models, dashboards and reports.
-  
-<a href="https://www.vrgroup.fi/en/vrgroup/our-company/business-operations/vr-fleetcare/" target=”_blank”>**VR FleetCare**</a>\
-*2023 - 2024*\
-*Corporate Development Manager*
+* Data engineering duties
+* Building and maintaining data pipelines with Azure, Matillion ETL, and Snowflake.
+* Developing Power BI semantic models, dashboards and reports.
 
-* Led the company-wide profit improvement program.
-* Managed key internal projects, including production contingency planning, depot network optimization, and ERP project support.
+<a href="https://www.vrgroup.fi/en/vrgroup/our-company/business-operations/vr-fleetcare/" target=”_blank”>**VR Fleetcare**</a>, <a href="https://www.metso.com/" target=”_blank”>**Metso**</a>, <a href="https://www.kone.com/en/" target=”_blank”>**KONE**</a>, <a href="https://deltamarin.com/" target=”_blank”>**Deltamarin**</a>\
+*2013 - 2024*\
+*Corporate Development Manager, Project Manager, Project Engineer*\
 
-<a href="https://www.metso.com/" target=”_blank”>**Metso**</a>\
-*2022 - 2023*\
-*Project Manager*
-
-* Led a team of 5-10 in delivering hydrometallurgy equipment projects, overseeing engineering, procurement, installation, and commissioning.
-* Responsibilities included leading the project team, daily problem-solving, cost analysis, schedule reporting, and resource management.
-
-Earlier jobs:\
-<a href="https://www.kone.com/en/" target=”_blank”>**KONE**</a> / Project Manager 2017-2021\
-<a href="https://deltamarin.com/" target=”_blank”>**Deltamarin**</a> / Project Engineer 2013-2017
+Before my career switch to data engineering, I spent over a decade managing projects in heavy industries, such as rail, mining and marine. I led company-wide development programs at VR FleetCare, delivered heavy machinery to clients at Metso and KONE and was involved in marine engineering at Deltamarin.
 
 ---
 
