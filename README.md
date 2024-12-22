@@ -2,7 +2,7 @@
 
 ### Data Engineer | Certified Project Management Professional (PMP)
 
-I've spent over a decade managing industrial projects for large Finnish companies like KONE, Metso, and VR. Recently, I took a different route in my career and decided to focus on data engineering. Currently, I'm building data pipelines with tools like Azure Functions, Snowflake and Matillion ETL. On the visualization side, I'm mainly working with Power BI.
+I've spent over a decade managing industrial projects for large Finnish companies like KONE, Metso, and VR. Recently, I took a different route in my career and decided to focus on data engineering. Currently, I'm building data pipelines with tools like Azure, Snowflake and Matillion ETL. On the visualization side, I'm mainly working with Power BI.
 
 - 🔨 Working on: **Data Engineering**
 - 📘 Learning: **Snowflake SnowPro Core Certification**
@@ -64,15 +64,32 @@ Some of my recent personal projects:
 *2024 - Present*\
 *ICT Development Manager*
 
-* Data engineering duties
 * Building and maintaining data pipelines with Azure, Matillion ETL, and Snowflake.
 * Developing Power BI semantic models, dashboards and reports.
 
-<a href="https://www.vrgroup.fi/en/vrgroup/our-company/business-operations/vr-fleetcare/" target=”_blank”>**VR Fleetcare**</a>, <a href="https://www.metso.com/" target=”_blank”>**Metso**</a>, <a href="https://www.kone.com/en/" target=”_blank”>**KONE**</a>, <a href="https://deltamarin.com/" target=”_blank”>**Deltamarin**</a>\
-*2013 - 2024*\
-*Corporate Development Manager, Project Manager, Project Engineer*
+<a href="https://www.vrfleetcare.com/en" target=”_blank”>**VR FleetCare**</a>  
+*2023 - 2024*  
+*Corporate Development Manager*  
 
-Before my career switch to data engineering, I spent over a decade managing projects in heavy industries, such as rail, mining and marine. I led company-wide development programs at VR FleetCare, delivered heavy machinery to clients at Metso and KONE and was involved in marine engineering at Deltamarin.
+* Led a company-wide profit improvement program 
+* Managed key development projects, including spare capacity plans, depot network optimization, a standardized development project model, and ERP project office support.
+
+<a href="https://www.metso.com/" target=”_blank”>**Metso**</a>  
+*2021 - 2023*  
+*Project Manager*  
+
+* Managed hydrometallurgical equipment delivery projects valued at €1–5M from design to commissioning, overseeing 4–5 projects simultaneously.
+
+<a href="https://www.kone.com/en/" target=”_blank”>**KONE**</a>  
+*2017 - 2020*  
+*Project Manager*  
+
+* Delivered 50–60 ship elevators and escalators for passenger and cruise vessels with dedicated teams.
+* Enhanced the business unit’s project tools and refined project management processes.
+
+<a href="https://www.deltamarin.com/" target=”_blank”>**Deltamarin**</a>  
+*2013 - 2017*  
+*Project Engineer*  
 
 ---
 
