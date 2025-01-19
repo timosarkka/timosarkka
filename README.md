@@ -16,9 +16,9 @@ I've spent over a decade managing industrial projects for large Finnish companie
 
 Some of my recent personal projects:
 
-* <a href="https://github.com/timosarkka/data-eng-skills" target="_blank">Data Engineering in 2024: Which Skills Will Land You the Job?</a>
-* <a href="https://github.com/timosarkka/nhl-elt-analysis" target=”_blank”>Unpacking 16 Years of NHL Data: Trends and Insights</a>
-* <a href="https://github.com/timosarkka/netflix-in-numbers" target=”_blank”>What’s Streaming? Analyzing Netflix's Top Titles and Trends</a>
+* <a href="https://github.com/timosarkka/data-eng-skills" target="_blank">Data Engineering in 2024: Which Skills Will Land You the Job?</a> (Python, SQL, Azure VM & Storage, PostgreSQL)
+* <a href="https://github.com/timosarkka/nhl-elt-analysis" target=”_blank”>Unpacking 16 Years of NHL Data: Trends and Insights</a> (PySpark, Azure Synapse Analytics, Power BI)
+* <a href="https://github.com/timosarkka/netflix-in-numbers" target=”_blank”>What’s Streaming? Analyzing Netflix's Top Titles and Trends</a> (Power BI)
 
 ---
 
