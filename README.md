@@ -2,10 +2,12 @@
 
 ### Data Engineer | Certified Project Management Professional (PMP)
 
-I've spent over a decade managing industrial projects for large Finnish companies like KONE, Metso, and VR. Recently, I took a different route in my career and decided to focus on data engineering. Currently, I'm building data pipelines with tools like Azure, Snowflake and Matillion ETL. On the visualization side, I'm mainly working with Power BI.
+I've spent over a decade managing industrial projects for large Finnish companies like KONE, Metso, and VR. 
+
+Recently, I switched gears in my career and decided to focus on data engineering. Currently, I'm building data pipelines with tools like **Azure**, **Snowflake** and **Matillion ETL**. On the visualization side, I'm mainly working with **Power BI**. Right now I'm trying to learn the ropes to achieve the **Snowflake SnowPro Core Certification** and also getting grips with **dbt Cloud**.
 
 - 🔨 Working on: **Data Engineering**
-- 📘 Learning: **Snowflake SnowPro Core Certification**
+- 📘 Learning: **Snowflake SnowPro Core Certification**, **dbt Cloud**
 - ⚡ Interested in: **All things data/backend, Generative AI, robotics**
 - 🌴 My free time: **Spending time with my family, Crossfit, playing padel, electronic music**
 - 💬 Languages: **Finnish, English**
@@ -44,6 +46,7 @@ Some of my recent personal projects:
         <td>
             <a href="https://www.snowflake.com/en/" target=”_blank”><img src="https://companieslogo.com/img/orig/SNOW-35164165.png?t=1720244494" width="40" height="40"/></a>
             <a href="https://www.matillion.com/matillion-etl" target=”_blank”><img src="https://cdn.prod.website-files.com/61ddd0b42c51f89b7de1e910/667f22f950cc4db776f23203_667ef82f0f02ee8d2f00c9a1_matillion-new.svg" width="40" height="40"/></a>
+            <a href="https://www.getdbt.com/" target=”_blank”><img src="https://svgmix.com/uploads/a9ea0e-dbt-icon.svg" width="40" height="40"/></a>
         </td>
     </tr>
     <tr>
@@ -66,6 +69,7 @@ Some of my recent personal projects:
 
 * Building and maintaining data pipelines with Azure, Matillion ETL, and Snowflake.
 * Developing Power BI semantic models, dashboards and reports.
+* Documentation of data models, schemas, tables and views.
 
 <a href="https://www.vrfleetcare.com/en" target=”_blank”>**VR FleetCare**</a>  
 *2023 - 2024*  
