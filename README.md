@@ -4,7 +4,7 @@
 
 I've spent over a decade managing industrial projects for large Finnish companies like KONE, Metso, and VR. 
 
-Recently, I switched gears in my career and decided to focus on data engineering. Currently, I'm building data pipelines with tools like **Azure**, **Snowflake** and **Matillion ETL**. On the visualization side, I'm mainly working with **Power BI**. Right now I'm trying to learn the ropes to achieve the **Snowflake SnowPro Core Certification** and also getting grips with **dbt Cloud**.
+Recently, I switched gears in my career and decided to focus on **data engineering**. Currently, I'm building data pipelines with tools like **Azure**, **Snowflake** and **Matillion ETL**. On the visualization side, I'm mainly working with **Power BI**. Right now I'm trying to learn the ropes to achieve the **Snowflake SnowPro Core Certification** and also getting grips with **dbt Cloud**.
 
 - 🔨 Working on: **Data Engineering**
 - 📘 Learning: **Snowflake SnowPro Core Certification**, **dbt Cloud**
