@@ -68,6 +68,7 @@ Some of my recent personal projects:
 *ICT Development Manager*
 
 * Building and maintaining data pipelines with Azure, Matillion ETL, and Snowflake.
+* Maintaining the data platform and dealing with daily data load alerts, if necessary.
 * Developing Power BI semantic models, dashboards and reports.
 * Documentation of data models, schemas, tables and views.
 
