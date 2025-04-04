@@ -6,7 +6,7 @@ Some of my recent professional work:
 
 - Built a performance management KPI dashboard along with 10+ related reports for tracking key company metrics
 - Developed an IoT data pipeline to capture continuous building sensor data, enabling machine learning model training
-- Built numerous data pipelines fetching data from REST APIs to a company data warehouse
+- Built numerous data pipelines fetching daily data from REST APIs to a company data warehouse
 
 My data stack is mainly **Azure**, **Snowflake**, **Matillion**, **dbt** and **Airflow**. On the visualization side, I'm usually working with **Power BI**. I'm also learning the ropes to achieve the **Snowflake SnowPro Core Certification**.
 
