@@ -4,7 +4,7 @@ I'm a **Data Engineer** who loves to build elegant data pipelines, robust analyt
 
 Some of my recent professional work: 
 
-- Built a performance management KPI dashboard along with 10+ related reports for tracking key company metrics and initiatives
+- Built a performance management KPI dashboard along with 10+ related reports for tracking key company metrics
 - Developed an IoT data pipeline to capture continuous building sensor data, enabling machine learning model training
 - Built numerous data pipelines fetching data from REST APIs to a company data warehouse
 
