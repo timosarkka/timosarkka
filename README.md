@@ -1,10 +1,16 @@
 ## Hi, I'm Timo 👋
 
-### Data Engineer | Certified Project Management Professional (PMP)
+I'm a **Data Engineer** who loves to build elegant data pipelines, robust analytics solutions, and impactful dashboards.
 
-I've spent over a decade managing industrial projects for large Finnish companies like KONE, Metso, and VR. 
+Some of my recent professional work: 
 
-Recently, I switched gears in my career and decided to focus on **data engineering**. Currently, I'm building data pipelines with tools like **Azure**, **Snowflake** and **Matillion ETL**. On the visualization side, I'm mainly working with **Power BI**. I'm also learning the ropes to achieve the **Snowflake SnowPro Core Certification** and at the same time getting familiar with **dbt Cloud**.
+- Built a performance management KPI dashboard along with 10+ related reports for tracking key company metrics and initiatives
+- Developed an IoT data pipeline to capture continuous building sensor data, enabling machine learning model training
+- Built numerous data pipelines fetching data from REST APIs to a company data warehouse
+
+My data stack is mainly **Azure**, **Snowflake**, **Matillion**, **dbt** and **Airflow**. On the visualization side, I'm usually working with **Power BI**. I'm also learning the ropes to achieve the **Snowflake SnowPro Core Certification**.
+
+Before my data engineering career, I spent over a decade managing industrial projects for Finnish industry leaders (KONE, Metso, VR) as a certified Project Management Professional (PMP).
 
 - 🔨 Working on: **Data Engineering**
 - 📘 Learning: **Snowflake SnowPro Core Certification**, **dbt Cloud**
@@ -14,9 +20,9 @@ Recently, I switched gears in my career and decided to focus on **data engineeri
 
 ---
 
-### Featured Projects
+### Featured Personal Projects
 
-Some of my recent personal projects:
+Some things I've built on my free time:
 
 * <a href="https://github.com/timosarkka/helsinki-air-quality" target="_blank">Building an ETL Pipeline for Helsinki Air Quality Data</a> (Python, SQL, Snowflake, dbt, Airflow)
 * <a href="https://github.com/timosarkka/data-eng-skills" target="_blank">Data Engineering in 2024: Which Skills Will Land You the Job?</a> (Python, SQL, Azure VM & Storage, PostgreSQL)
@@ -65,7 +71,7 @@ Some of my recent personal projects:
 
 <a href="https://www.are.fi/en/" target=”_blank”>**ARE**</a>\
 *2024 - Present*\
-*ICT Development Manager*
+*Data Engineer*
 
 * Building and maintaining data pipelines with Azure, Matillion ETL, and Snowflake.
 * Maintaining the data platform and dealing with daily data load alerts, if necessary.
