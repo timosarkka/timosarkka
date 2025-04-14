@@ -1,21 +1,21 @@
 ## Hi, I'm Timo 👋
 
-I'm a **Data Engineer** who loves to build elegant data pipelines, robust analytics solutions, and impactful dashboards.
+I'm a **Data Engineer**. I build robust and scalable data pipelines, along with clear and impactful reports and dashboards.
 
-Some of my recent professional work: 
+Examples of my recent professional work:
 
-- Built a performance management KPI dashboard along with 10+ related reports for tracking key company metrics
-- Developed an IoT data pipeline to capture continuous building sensor data, enabling machine learning model training
-- Built numerous data pipelines fetching daily data from REST APIs to a company data warehouse
+- Built a KPI dashboard along with 10+ related reports for tracking key company metrics
+- Developed an IoT data pipeline to capture building sensor data, enabling ML model training
+- Built numerous data pipelines fetching daily data from APIs to a company data warehouse
 
-My data stack is mainly **Azure**, **Snowflake**, **Matillion**, **dbt** and **Airflow**. On the visualization side, I'm usually working with **Power BI**. I'm also learning the ropes to achieve the **Snowflake SnowPro Core Certification**.
+The data stack I've mainly worked with is **Azure**, **Snowflake**, **Matillion** and **dbt**. On the visualization side, my go-to is **Power BI**. I'm also learning the ropes to achieve the **Snowflake SnowPro Core Certification**.
 
 Before my data engineering career, I spent over a decade managing industrial projects for Finnish industry leaders (KONE, Metso, VR) as a certified Project Management Professional (PMP).
 
-- 🔨 Working on: **Data Engineering**
-- 📘 Learning: **Snowflake SnowPro Core Certification**, **dbt Cloud**
-- ⚡ Interested in: **All things data/backend, Generative AI, robotics**
-- 🌴 My free time: **Spending time with my family, Crossfit, playing padel, electronic music**
+- 🔨 I'm working on: **Data Engineering**
+- 📘 I'm learning: **Snowflake SnowPro Core Certification**
+- ⚡ What I currently find interesting: **GenAI, robotics, minimalism, stoicism, entrepreneurship**
+- 🌴 My free time: **Spending time with my family, reading non-fiction books, Crossfit, playing padel, electronic music**
 - 💬 Languages: **Finnish, English**
 
 ---
