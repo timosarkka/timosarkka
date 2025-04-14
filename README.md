@@ -14,7 +14,7 @@ Before my data engineering career, I spent over a decade managing industrial pro
 
 - 🔨 I'm working on: **Data Engineering**
 - 📘 I'm learning: **Snowflake SnowPro Core Certification**
-- ⚡ What I currently find interesting: **GenAI, robotics, minimalism, stoicism, entrepreneurship**
+- ⚡ What I currently find interesting: **GenAI, robotics, minimalism, stoic thinking, entrepreneurship**
 - 🌴 My free time: **Spending time with my family, reading non-fiction books, Crossfit, playing padel, electronic music**
 - 💬 Languages: **Finnish, English**
 
