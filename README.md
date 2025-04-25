@@ -8,15 +8,16 @@ Examples of my recent professional work:
 - Developed an IoT data pipeline to capture building sensor data
 - Built numerous ETL pipelines fetching daily data from APIs to a company data warehouse
 
-The data stack I've mainly worked with is **Azure**, **Snowflake**, **Matillion** and **dbt**. On the visualization side, my go-to is **Power BI**. I'm also learning the ropes to achieve the **Snowflake SnowPro Core Certification**.
+The data stack I've mainly worked with is **Azure**, **Snowflake**, **Matillion**, **dbt** and **Power BI**. I'm also <a href="https://achieve.snowflake.com/61c92134-8c76-4d7d-bed8-f45a362727a9#acc.TRGOcuDh" target="_blank">SnowPro Core Certified</a>.
 
-Before my data engineering career, I spent over a decade managing industrial projects for Finnish industry leaders (KONE, Metso, VR) as a certified Project Management Professional (PMP).
+Before my data engineering career, I spent over a decade managing industrial projects for Finnish industry leaders, such as KONE, Metso and VR.
 
-- 🔨 I'm working on: **Data Engineering**
-- 📘 I'm learning: **Snowflake SnowPro Core Certification**
-- ⚡ What I currently find interesting: **GenAI, robotics, minimalism, stoic thinking, entrepreneurship**
-- 🌴 My free time: **Spending time with my family, reading non-fiction books, Crossfit, playing padel, electronic music**
-- 💬 Languages: **Finnish, English**
+Some things I'm working on or what I find interesting at the moment:
+
+- 💻 Learning: I'm currently dabbling with **JavaScript** for fun, and also planning to do this <a href="https://huggingface.co/learn/agents-course/en/unit0/introduction" target="_blank">AI Agents</a> course.
+- 🛠️ Building: My **personal website**. 
+- 📗 Reading: I just finished **Four Thousand Weeks** by Oliver Burkeman and was mezmerized by it! So much so that I read it twice.
+- 💡 Discovering: I'm fascinated by the <a href="https://512kb.club/" target="_blank">The 512KB Club</a> and the tiny web in general. It's very intriguing to visit these small personal sites and learn about the people behind them.
 
 ---
 
