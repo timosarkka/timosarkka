@@ -2,7 +2,7 @@
 
 I'm a **Data Engineer**. I build robust and scalable data pipelines, along with clear and impactful reports and dashboards.
 
-Examples of typical past projects at work:
+Examples of my typical professional projects:
 
 - Built a KPI dashboard along with 10+ related reports for tracking key company metrics
 - Developed an IoT data pipeline to capture building sensor data
