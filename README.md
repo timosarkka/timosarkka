@@ -118,5 +118,5 @@ Some things I've built on my free time:
 ---
 
 ### Certifications
-
+[SnowPro Core Certification](https://achieve.snowflake.com/61c92134-8c76-4d7d-bed8-f45a362727a9#acc.TRGOcuDh)  
 [Project Management Professional (PMP)®](https://www.credly.com/badges/09dace82-3b47-459e-bfbd-b292ae4cdefd/public_url)
