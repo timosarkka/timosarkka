@@ -6,7 +6,7 @@ Examples of my recent professional work:
 
 - Built a KPI dashboard along with 10+ related reports for tracking key company metrics
 - Developed an IoT data pipeline to capture building sensor data
-- Built numerous data pipelines fetching daily data from APIs to a company data warehouse
+- Built numerous ETL pipelines fetching daily data from APIs to a company data warehouse
 
 The data stack I've mainly worked with is **Azure**, **Snowflake**, **Matillion** and **dbt**. On the visualization side, my go-to is **Power BI**. I'm also learning the ropes to achieve the **Snowflake SnowPro Core Certification**.
 
