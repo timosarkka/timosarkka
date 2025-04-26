@@ -14,9 +14,9 @@ Before my data engineering career, I spent over a decade managing industrial pro
 
 Some things I'm working on or what I find interesting at the moment:
 
-- 💻 Learning: I'm currently dabbling with **JavaScript** for fun, and also planning to learn more about <a href="https://huggingface.co/learn/agents-course/en/unit0/introduction" target="_blank">AI Agents</a>.
+- 💻 Learning:  I'm learning about the fundamentals of large language models with the free <a href="https://github.com/mlabonne/llm-course" target="_blank">LLM course</a>. I'm also currently dabbling with **JavaScript**, just for fun.
 - 🛠️ Building: My **personal website**. 
-- 📗 Reading: I just finished **Four Thousand Weeks** by Oliver Burkeman and was mezmerized by it! So much so that I read it again right after.
+- 📗 Reading: I just finished **Four Thousand Weeks** by Oliver Burkeman and was mezmerized by it! So much so that I ended up reading it twice.
 - 💡 Discovering: I'm fascinated by the <a href="https://512kb.club/" target="_blank">The 512KB Club</a> and the **tiny web** in general. It's very intriguing to visit these small personal sites and learn about the people behind them.
 
 ---
