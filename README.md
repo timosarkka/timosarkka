@@ -68,6 +68,12 @@ Some things I've built on my free time:
 
 ---
 
+### Certifications
+[SnowPro Core Certification](https://achieve.snowflake.com/61c92134-8c76-4d7d-bed8-f45a362727a9#acc.TRGOcuDh)  
+[Project Management Professional (PMP)®](https://www.credly.com/badges/09dace82-3b47-459e-bfbd-b292ae4cdefd/public_url)
+
+---
+
 ### Work Experience
 
 <a href="https://www.are.fi/en/" target=”_blank”>**ARE**</a>\
@@ -114,9 +120,3 @@ Some things I've built on my free time:
 **MSc in Mechanical Engineering**\
 2007 - 2013\
 <a href="https://www.aalto.fi/en">Aalto University School of Engineering</a>
-
----
-
-### Certifications
-[SnowPro Core Certification](https://achieve.snowflake.com/61c92134-8c76-4d7d-bed8-f45a362727a9#acc.TRGOcuDh)  
-[Project Management Professional (PMP)®](https://www.credly.com/badges/09dace82-3b47-459e-bfbd-b292ae4cdefd/public_url)
