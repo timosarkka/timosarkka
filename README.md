@@ -23,11 +23,11 @@ Some things I'm working on or what I find interesting at the moment:
 
 ### Featured Personal Projects
 
-Some things I've built on my free time:
+Some things I've built recently on my free time:
 
+* <a href="https://github.com/timosarkka/ai-agent-news-summary" target=”_blank”>AI Agent Providing a Daily News Analysis</a> (Python, smolagents, OpenAI API)
 * <a href="https://github.com/timosarkka/helsinki-air-quality" target="_blank">Building an ETL Pipeline for Helsinki Air Quality Data</a> (Python, SQL, Snowflake, dbt, Airflow)
 * <a href="https://github.com/timosarkka/data-eng-skills" target="_blank">Data Engineering in 2024: Which Skills Will Land You the Job?</a> (Python, SQL, Azure VM & Storage, PostgreSQL)
-* <a href="https://github.com/timosarkka/nhl-elt-analysis" target=”_blank”>Unpacking 16 Years of NHL Data: Trends and Insights</a> (PySpark, Azure Synapse Analytics, Power BI)
 
 ---
 
