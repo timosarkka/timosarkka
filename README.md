@@ -10,6 +10,8 @@ Examples of my recent professional projects:
 
 The data stack I've mainly worked with is **Azure**, **Snowflake**, **Matillion**, **dbt** and **Power BI**. I'm also <a href="https://achieve.snowflake.com/61c92134-8c76-4d7d-bed8-f45a362727a9#acc.TRGOcuDh" target="_blank">SnowPro Core Certified</a>.
 
+Language-wise, I'm well-versed in **SQL** and **Python**.
+
 Before my data engineering career, I spent over a decade managing industrial projects for Finnish industry leaders, such as KONE, Metso and VR.
 
 Some things I'm working on or finding interesting at the moment:
