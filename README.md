@@ -4,9 +4,9 @@ I'm a **Data Engineer**. I build robust and scalable data pipelines, along with 
 
 Examples of my recent professional projects:
 
-- KPI dashboard along with 10+ related reports for tracking key company metrics
-- IoT data pipeline to capture building sensor data
 - ETL pipelines with Matillion, fetching daily data from REST APIs to Snowflake
+- IoT data pipeline to capture building sensor data
+- KPI dashboard along with 10+ related reports for tracking key company metrics
 
 The data stack I've mainly worked with is **Azure**, **Snowflake**, **Matillion**, **dbt** and **Power BI**. I'm also <a href="https://achieve.snowflake.com/61c92134-8c76-4d7d-bed8-f45a362727a9#acc.TRGOcuDh" target="_blank">SnowPro Core Certified</a>.
 
