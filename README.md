@@ -14,9 +14,9 @@ Before my data engineering career, I spent over a decade managing industrial pro
 
 Some things I'm working on or finding interesting at the moment:
 
-- 💻 Learning:  I'm learning about the fundamentals of <a href="https://github.com/timosarkka/ai-agent-news-summary" target="_blank">AI Agents</a>. I'm also currently dabbling with **JavaScript**, just for fun.
+- 💻 Learning:  I recently built my first <a href="https://github.com/timosarkka/ai-agent-news-summary" target="_blank">AI Agent</a> summarizing news for me daily via email.
 - 🛠️ Building: My **personal website**. 
-- 📗 Reading: I just finished **Four Thousand Weeks** by Oliver Burkeman and was mezmerized by it! Next, I'm picking up **Meditations for Mortals** from the same author.
+- 📗 Reading: I just finished **Meditations for Mortals** from Oliver Burkeman.
 - 💡 Discovering: I'm fascinated by the <a href="https://512kb.club/" target="_blank">The 512KB Club</a> and the **tiny web** in general. It's very intriguing to visit these small personal sites and learn about the people behind them.
 
 ---
