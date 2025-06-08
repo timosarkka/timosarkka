@@ -76,6 +76,9 @@ Some things I've built recently on my free time:
 
 ### Work Experience
 
+<details>
+<summary>Data Engineering</summary></br>
+    
 <a href="https://www.are.fi/en/" target=”_blank”>**ARE**</a>\
 *2024 - Present*\
 *Data Engineer*
@@ -84,6 +87,11 @@ Some things I've built recently on my free time:
 * Maintaining the data platform and architecture.
 * Developing Power BI semantic models, dashboards and reports.
 * Documentation of data models, schemas, tables and views.
+
+</details>
+
+<details>
+<summary>Project Management</summary></br>
 
 <a href="https://www.vrfleetcare.com/en" target=”_blank”>**VR FleetCare**</a>  
 *2023 - 2024*  
@@ -107,7 +115,9 @@ Some things I've built recently on my free time:
 
 <a href="https://www.deltamarin.com/" target=”_blank”>**Deltamarin**</a>  
 *2013 - 2017*  
-*Project Engineer*  
+*Project Engineer*
+
+</details>
 
 ---
 
