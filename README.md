@@ -16,7 +16,7 @@ Some things I'm working on or finding interesting at the moment:
 
 - 💻 Learning:  I'm currently learning the basics of [Go](https://go.dev/).
 - 🛠️ Building: My **personal website**. 
-- 📗 Reading: Ikigai - the Japanese secret to a long and happy life (by Héctor García and Francesc Miralles)
+- 📗 Reading: Ikigai - the Japanese secret to a long and happy life (by Héctor García and Francesc Miralles).
 - 💡 Discovering: I'm fascinated by the <a href="https://512kb.club/" target="_blank">The 512KB Club</a> and the **tiny web** in general. It's very intriguing to visit these small personal sites and learn about the people behind them.
 
 ---
