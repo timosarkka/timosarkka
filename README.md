@@ -14,7 +14,7 @@ Before my data engineering career, I spent over a decade managing industrial pro
 
 Some things I'm working on or finding interesting at the moment:
 
-- 💻 Learning:  I'm currently going deeper with [dbt](https://www.getdbt.com/).
+- 💻 Learning:  I'm currently learning [dbt](https://www.getdbt.com/) in-depth.
 - 🛠️ Building: My personal website. 
 - 📗 Reading: [Dune](https://en.wikipedia.org/wiki/Dune_(novel)) (by Frank Herbert)
 - 💡 Discovering: I'm fascinated by the <a href="https://512kb.club/" target="_blank">The 512KB Club</a> and the **tiny web** in general. It's very intriguing to visit these small personal sites and learn about the people behind them.
