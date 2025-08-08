@@ -1,6 +1,6 @@
 ## Hi, I'm Timo 👋
 
-An analytics engineer at [Breakout Labs](https://breakout-labs.com), where I help modern data teams build robust pipelines with [dbt](https://www.getdbt.com/) and [Snowflake](https://www.snowflake.com/en/). 
+I'm an analytics engineer at [Breakout Labs](https://breakout-labs.com), where I help modern data teams build robust pipelines with [dbt](https://www.getdbt.com/) and [Snowflake](https://www.snowflake.com/en/). 
 
 If you want to learn more about me, check out my [personal website](https://timosarkka.com).
 
