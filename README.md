@@ -1,8 +1,10 @@
 ## Hi, I'm Timo 👋
 
-I'm an analytics engineer at [Breakout Labs](https://breakout-labs.com), where I help modern data teams build robust pipelines with [dbt](https://www.getdbt.com/) and [Snowflake](https://www.snowflake.com/en/). 
+I'm an analytics engineer at [Breakout Labs](https://breakout-labs.com), where I help modern data teams build robust pipelines with [dbt](https://www.getdbt.com/) and [Snowflake](https://www.snowflake.com/en/).
 
-If you want to learn more about me, check out my [personal website](https://timosarkka.com).
+ <a href="https://timosarkka.com"><img src="https://img.shields.io/badge/Website-%230db7ed.svg?&style=for-the-badge&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+ <a href="https://www.linkedin.com/in/timosarkka/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:t@timosarkka.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 ---
 
@@ -18,35 +20,31 @@ Some things I've built on my free time:
 
 ### My Tech Stack
 
-<table>
-    <tr>
-        <td>Cloud</td>
-        <td>
-            <a href="https://azure.microsoft.com" target=”_blank”><img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" width="40" height="40"></a>
-        </td>   
-    </tr>
-    <tr>
-        <td>Programming</td>
-        <td>
-            <a href="https://www.python.org/" target=”_blank”><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/python/python-original.svg" width="40" height="40"/></a>
-            <a href="https://numpy.org/" target=”_blank”><img src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" width="40" height="40"/></a>
-            <a href="https://pandas.pydata.org/" target=”_blank”><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/674px-Pandas_mark.svg.png" width="40" height="40"/></a>
-        </td>
-    </tr>
-    <tr>
-        <td>Databases/ETL</td>
-        <td>
-            <a href="https://www.snowflake.com/en/" target=”_blank”><img src="https://companieslogo.com/img/orig/SNOW-35164165.png?t=1720244494" width="40" height="40"/></a>
-            <a href="https://www.getdbt.com/" target=”_blank”><img src="https://svgmix.com/uploads/a9ea0e-dbt-icon.svg" width="40" height="40"/></a>
-            <a href="https://www.matillion.com/matillion-etl" target=”_blank”><img src="https://cdn.prod.website-files.com/61ddd0b42c51f89b7de1e910/667f22f950cc4db776f23203_667ef82f0f02ee8d2f00c9a1_matillion-new.svg" width="40" height="40"/></a>
-        </td>
-    </tr>
-    <tr>
-        <td>Visualization and other tools</td>
-        <td>
-            <a href="https://www.microsoft.com/en-us/power-platform/products/power-bi" target=”_blank”><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="40" height="40"/></a>
-            <a href="https://code.visualstudio.com/" target=”_blank”><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/vscode/vscode-original.svg" width="40" height="40"/></a>
-            <a href="https://git-scm.com/" target=”_blank”><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/git/git-original.svg" width="40" height="40"/></a>
-        </td>
-    </tr>
-</table>
+**Cloud Infrastructure**
+
+<p align='left'>
+    <a href="https://azure.microsoft.com/"><img src="https://img.shields.io/badge/Azure-%230db7ed.svg?&style=for-the-badge&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
+**Programming and Querying**
+
+<p align='left'>
+    <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&color=%233776AB" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://en.wikipedia.org/wiki/SQL"><img src="https://img.shields.io/badge/sql-878280?style=for-the-badge&logo=sql&logoColor=ffffff" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
+**Data Warehouses, Transformations, ETL**
+
+<p align='left'>
+    <a href="https://www.snowflake.com"><img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white&color=%2329B5E8" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.getdbt.com/"><img src="https://img.shields.io/badge/dbt-de5d40.svg?&style=for-the-badge&logo=dbt&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.matillion.com/"><img src="https://img.shields.io/badge/Matillion_ETL-19E57F?style=for-the-badge&logo=matillion&logoColor=white&color=%2319E57F" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
+**Visualizations, IDEs, Other tools**
+
+<p align='left'>
+    <a href="https://www.microsoft.com/en-us/power-platform/products/power-bi"><img src="https://img.shields.io/badge/Power_BI-dea302?style=for-the-badge&logoColor=white&color=%23dea302" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/VS_Code-0078d7?style=for-the-badge&logoColor=white&color=%230078d7" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&color=%23F05032" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
