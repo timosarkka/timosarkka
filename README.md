@@ -38,7 +38,7 @@ Some things I've built on my free time:
 <p align='left'>
     <a href="https://www.snowflake.com"><img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white&color=%2329B5E8" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.getdbt.com/"><img src="https://img.shields.io/badge/dbt-de5d40.svg?&style=for-the-badge&logo=dbt&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.matillion.com/"><img src="https://img.shields.io/badge/Matillion_ETL-19E57F?style=for-the-badge&logo=matillion&logoColor=white&color=%2319E57F" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.matillion.com/"><img src="https://img.shields.io/badge/Matillion-15ab60?style=for-the-badge&logo=matillion&logoColor=white&color=%2315ab60" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 **Visualizations, IDEs, Other tools**
