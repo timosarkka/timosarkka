@@ -1,6 +1,6 @@
 ## Hi, I'm Timo 👋
 
-I'm an Analytics Engineer at [Breakout Labs](https://breakout-labs.com), where I help modern data teams build data pipelines with [dbt](https://www.getdbt.com/) and [Snowflake](https://www.snowflake.com/en/).
+I'm an Analytics Engineer at [Breakout Labs](https://breakout-labs.com), where I help modern data teams build data pipelines with [dbt](https://www.getdbt.com/) and [Snowflake](https://www.snowflake.com/en/). I also have experience of [Data Vault](https://datavaultalliance.com/) modeling and projects.
 
 <a href="https://timosarkka.com" target="_blank"><img src="https://img.shields.io/badge/Website-%230db7ed.svg?&style=for-the-badge&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/timosarkka/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -33,12 +33,13 @@ Some things I've built on my free time:
     <a href="https://en.wikipedia.org/wiki/SQL" target="_blank"><img src="https://img.shields.io/badge/sql-878280?style=for-the-badge&logo=sql&logoColor=ffffff" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-**Data Warehouses, Transformations, ETL**
+**Data Warehouses, Data Modeling, Transformations, ELT**
 
 <p align='left'>
     <a href="https://www.snowflake.com" target="_blank"><img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white&color=%2329B5E8" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.getdbt.com/" target="_blank"><img src="https://img.shields.io/badge/dbt-de5d40.svg?&style=for-the-badge&logo=dbt&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.matillion.com/" target="_blank"><img src="https://img.shields.io/badge/Matillion-15ab60?style=for-the-badge&logo=matillion&logoColor=white&color=%2315ab60" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://en.wikipedia.org/wiki/Data_vault_modeling" target="_blank"><img src="https://img.shields.io/badge/Data%20Vault-00ced1?style=for-the-badge" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 **Visualizations, IDEs, Other tools**
