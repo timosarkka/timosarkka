@@ -29,23 +29,32 @@ Some things I've built on my free time:
 **Programming and Querying**
 
 <p align='left'>
-    <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&color=%233776AB" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://en.wikipedia.org/wiki/SQL" target="_blank"><img src="https://img.shields.io/badge/sql-878280?style=for-the-badge&logo=sql&logoColor=ffffff" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://jinja.palletsprojects.com/en/stable/" target="_blank"><img src="https://img.shields.io/badge/Jinja-de5d40?style=for-the-badge&logo=jinja&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&color=%233776AB" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    
 </p>
 
 **Data Warehouses, Data Modeling, Transformations, ELT**
 
 <p align='left'>
     <a href="https://www.snowflake.com" target="_blank"><img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white&color=%2329B5E8" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://cloud.google.com/bigquery" target="_blank"><img src="https://img.shields.io/badge/BigQuery-29B5E8?style=for-the-badge&logo=gcp&logoColor=white&color=%2329B5E8" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
+**Data Modeling, ELT**
+
+<p align='left'>
     <a href="https://www.getdbt.com/" target="_blank"><img src="https://img.shields.io/badge/dbt-de5d40.svg?&style=for-the-badge&logo=dbt&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.matillion.com/" target="_blank"><img src="https://img.shields.io/badge/Matillion-15ab60?style=for-the-badge&logo=matillion&logoColor=white&color=%2315ab60" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://en.wikipedia.org/wiki/Data_vault_modeling" target="_blank"><img src="https://img.shields.io/badge/Data%20Vault-00ced1?style=for-the-badge" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-**Visualizations, IDEs, Other tools**
+**Visualizations, Dev Tools**
 
 <p align='left'>
     <a href="https://www.microsoft.com/en-us/power-platform/products/power-bi" target="_blank"><img src="https://img.shields.io/badge/Power_BI-dea302?style=for-the-badge&logoColor=white&color=%23dea302" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.shields.io/badge/VS_Code-0078d7?style=for-the-badge&logoColor=white&color=%230078d7" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://claude.ai/" target="_blank"><img src="https://img.shields.io/badge/Claude%20Code-F89A63?style=for-the-badge&logo=claude&logoColor=white&color=%23F89A63" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&color=%23F05032" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
