@@ -1,20 +1,23 @@
 ## Hi, I'm Timo 👋
 
-I'm an Analytics Engineer at [Breakout Labs](https://breakout-labs.com), where I help modern data teams build data pipelines with [dbt](https://www.getdbt.com/) and [Snowflake](https://www.snowflake.com/en/). I also have experience of [Data Vault](https://en.wikipedia.org/wiki/Data_vault_modeling) modeling and projects.
+I'm an Analytics Engineer at [Breakout Labs](https://breakout-labs.com), where I help modern data teams build data products with [dbt](https://www.getdbt.com/) and [Snowflake](https://www.snowflake.com/en/). I also have experience of [Data Vault](https://en.wikipedia.org/wiki/Data_vault_modeling) modeling.
+
+### My Website 
 
 <a href="https://timosarkka.com" target="_blank"><img src="https://img.shields.io/badge/Website-%230db7ed.svg?&style=for-the-badge&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+
+### Contact Me
+
 <a href="https://www.linkedin.com/in/timosarkka/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto:t@timosarkka.com" target="_blank"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 ---
 
-### Featured Personal Projects
+### Featured Projects
 
-Some things I've built on my free time:
+Some portfolio projects I've built that I'm proud of:
 
-* <a href="https://github.com/timosarkka/ai-agent-news-summary" target=”_blank”>AI Agent Providing a Daily News Analysis</a> (Python, smolagents, OpenAI API)
-* <a href="https://github.com/timosarkka/helsinki-air-quality" target="_blank">Building an ETL Pipeline for Helsinki Air Quality Data</a> (Python, SQL, Snowflake, dbt, Airflow)
-* <a href="https://github.com/timosarkka/data-eng-skills" target="_blank">Data Engineering in 2024: Which Skills Will Land You the Job?</a> (Python, SQL, Azure VM & Storage, PostgreSQL)
+* <a href="https://github.com/timosarkka/flights-etl" target=”_blank”>Flights ETL Pipeline with Data Vault 2.0, dbt and Snowflake</a>
 
 ---
 
