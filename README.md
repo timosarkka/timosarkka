@@ -15,7 +15,7 @@ I'm an Analytics Engineer at [Breakout Labs](https://breakout-labs.com), where I
 
 ### Featured Projects
 
-Some portfolio projects I've built that I'm proud of:
+Some portfolio projects I've built:
 
 * <a href="https://github.com/timosarkka/flights-elt" target=”_blank”>Flights ETL Pipeline (Data Vault 2.0, dbt and Snowflake)</a>
 
